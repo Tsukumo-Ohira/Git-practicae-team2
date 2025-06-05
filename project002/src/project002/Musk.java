@@ -8,6 +8,10 @@ public class Musk {
 		int num = 4;
 		
 		System.out.println(num);
+		
+		for(int i = 0; i< 5; i++) {
+			System.out.println("筋肉");
+		}
 	}
 
 }
