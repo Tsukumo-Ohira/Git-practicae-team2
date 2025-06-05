@@ -1,5 +1,5 @@
 package project002;
 
 public class banana {
-	System.out.println("バナナ");
+	System.out.println("バナナばなな");
 }
